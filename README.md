@@ -1,1 +1,2 @@
 # EDS-assi
+ALL PRACTICAL
